@@ -49,6 +49,7 @@
 	height: 725px;
 	padding: 0 15px;
 	margin: 0 auto;
+	padding: 145px 0;
 }
 
 .container {
@@ -62,7 +63,7 @@
 }
 
 .inform {
-	padding: 255px 0 0 0;
+	padding: 85px 0 0 0;
 	width: 499px;
 	outline: none;
 	width: 100%;
@@ -88,7 +89,7 @@
 	position: absolute;
 	top: 0;
 	left: 100%;
-	margin: 145px 0 145px 0;
+	margin: 0;
 }
 
 .clien-info {
@@ -110,7 +111,7 @@
 .subscribe {
 	text-align: center;
 	width: 50%;
-	padding: 290px 0 0 0;
+	padding: 150px 0 0 0;
 }
 
 .text {
